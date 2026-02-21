@@ -1,3 +1,5 @@
-0.0.0.0 ads.example.com
-0.0.0.0 tracker.pck.netskrt.net
+0.0.0.0 tritondigital.com
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 connect.facebook.net
+0.0.0.0 graph.facebook.com
